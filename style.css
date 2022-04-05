@@ -1,0 +1,29 @@
+.banner{
+    background:url('banner.jpg');
+    background-size:cover;
+    overflow: hidden;
+    background-repeat: no-repeat;
+}
+.banner-content{
+    padding: 250px 0px 220px 0px;
+}
+.banner-title{
+    font-size: 100px;
+    line-height: 100px;
+}
+.contact{
+    background:url('contact.jpg');
+    background-size:cover;
+    overflow: hidden;
+    background-repeat: no-repeat;
+}
+.about{
+    background:url('About_us.jpg');
+    background-size:cover;
+    overflow: hidden;
+    background-repeat: no-repeat;
+}
+
+
+
+
